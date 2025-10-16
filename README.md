@@ -1,3 +1,3 @@
 # spreadsheet-csv
 
-CSV файл из Google Sheets.
+CSV файл с промптами из Google Sheets.
